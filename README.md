@@ -13,7 +13,7 @@
             padding: 20px;
             margin: 50px auto;
             justify-content: center;
-            gap: 20px; /* Thêm gap để tạo khoảng cách */
+            gap: 20px;
         }
     
         
